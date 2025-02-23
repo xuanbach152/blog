@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index .js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanbach152/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "xuan bach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanbach152/blog/issues"
+  },
+  "homepage": "https://github.com/xuanbach152/blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
